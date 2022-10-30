@@ -1,0 +1,417 @@
+[2022-10-23 14:50:55] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:51:00] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:51:09] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:51:43] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:53:39] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:54:39] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:55:08] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:55:29] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:55:41] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:56:18] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:59:12] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:59:37] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 14:59:40] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:05:14] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:08:34] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:08:41] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:09:21] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:10:37] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:10:59] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:11:02] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:11:13] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:11:42] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:11:49] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:12:02] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:12:07] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:12:46] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:13:06] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:15:15] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:21:43] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:22:47] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:23:54] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:24:00] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:24:20] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:24:30] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:25:12] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:30:26] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:30:39] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:30:50] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:31:50] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:32:43] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:41:07] local.ERROR: syntax error, unexpected token "public", expecting end of file {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \"public\", expecting end of file at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\AuthController.php:45)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(428): Composer\\Autoload\\includeFile()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1090): is_a()
+#3 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1029): Illuminate\\Routing\\Route->controllerMiddleware()
+#4 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Route->gatherMiddleware()
+#5 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(719): Illuminate\\Routing\\Router->gatherRouteMiddleware()
+#6 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack()
+#7 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute()
+#8 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute()
+#9 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch()
+#10 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}()
+#11 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#12 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#13 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#14 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#15 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#16 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#17 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#18 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle()
+#19 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#20 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#21 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#22 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#23 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#24 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#25 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#26 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then()
+#27 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#28 C:\\xampp\\htdocs\\laravel-jwt\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#29 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('...')
+#30 {main}
+"} 
+[2022-10-23 15:41:31] local.ERROR: syntax error, unexpected token "public", expecting end of file {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \"public\", expecting end of file at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\AuthController.php:45)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(428): Composer\\Autoload\\includeFile()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1090): is_a()
+#3 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1029): Illuminate\\Routing\\Route->controllerMiddleware()
+#4 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Route->gatherMiddleware()
+#5 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(719): Illuminate\\Routing\\Router->gatherRouteMiddleware()
+#6 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack()
+#7 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute()
+#8 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute()
+#9 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch()
+#10 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}()
+#11 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#12 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#13 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#14 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#15 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#16 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#17 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#18 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle()
+#19 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#20 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#21 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#22 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#23 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#24 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#25 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#26 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then()
+#27 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#28 C:\\xampp\\htdocs\\laravel-jwt\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#29 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('...')
+#30 {main}
+"} 
+[2022-10-23 15:42:03] local.ERROR: syntax error, unexpected token "public", expecting end of file {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \"public\", expecting end of file at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\AuthController.php:45)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(428): Composer\\Autoload\\includeFile()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1090): is_a()
+#3 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1029): Illuminate\\Routing\\Route->controllerMiddleware()
+#4 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Route->gatherMiddleware()
+#5 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(719): Illuminate\\Routing\\Router->gatherRouteMiddleware()
+#6 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack()
+#7 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute()
+#8 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute()
+#9 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch()
+#10 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}()
+#11 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#12 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#13 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#14 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#15 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#16 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#17 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#18 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle()
+#19 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#20 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#21 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#22 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#23 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#24 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#25 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#26 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then()
+#27 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#28 C:\\xampp\\htdocs\\laravel-jwt\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#29 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('...')
+#30 {main}
+"} 
+[2022-10-23 15:42:21] local.ERROR: syntax error, unexpected token "public", expecting end of file {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \"public\", expecting end of file at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\AuthController.php:45)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(428): Composer\\Autoload\\includeFile()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1090): is_a()
+#3 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1029): Illuminate\\Routing\\Route->controllerMiddleware()
+#4 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Route->gatherMiddleware()
+#5 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(719): Illuminate\\Routing\\Router->gatherRouteMiddleware()
+#6 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack()
+#7 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute()
+#8 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute()
+#9 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch()
+#10 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}()
+#11 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#12 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#13 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#14 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#15 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#16 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#17 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#18 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle()
+#19 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#20 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#21 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#22 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#23 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#24 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#25 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#26 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then()
+#27 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#28 C:\\xampp\\htdocs\\laravel-jwt\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#29 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('...')
+#30 {main}
+"} 
+[2022-10-23 15:43:47] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:46:33] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:48:38] local.ERROR: Class "App\Http\Controllers\AuthController" not found {"exception":"[object] (Error(code: 0): Class \"App\\Http\\Controllers\\AuthController\" not found at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\AuthController.php:7)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(571): include()
+#1 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(428): Composer\\Autoload\\includeFile()
+#2 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#3 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1090): is_a()
+#4 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1029): Illuminate\\Routing\\Route->controllerMiddleware()
+#5 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Route->gatherMiddleware()
+#6 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(719): Illuminate\\Routing\\Router->gatherRouteMiddleware()
+#7 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack()
+#8 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute()
+#9 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute()
+#10 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch()
+#11 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}()
+#12 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#13 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#14 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#15 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#16 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#17 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#18 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#19 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle()
+#20 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#21 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#22 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#23 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#24 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#25 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#26 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#27 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then()
+#28 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#29 C:\\xampp\\htdocs\\laravel-jwt\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#30 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('...')
+#31 {main}
+"} 
+[2022-10-23 15:49:00] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:49:31] local.ERROR: Class "App\Http\Controllers\Controller" not found {"exception":"[object] (Error(code: 0): Class \"App\\Http\\Controllers\\Controller\" not found at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(571): include()
+#1 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(428): Composer\\Autoload\\includeFile()
+#2 C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\AuthController.php(7): Composer\\Autoload\\ClassLoader->loadClass()
+#3 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(571): include('...')
+#4 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\composer\\ClassLoader.php(428): Composer\\Autoload\\includeFile()
+#5 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#6 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1090): is_a()
+#7 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1029): Illuminate\\Routing\\Route->controllerMiddleware()
+#8 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(737): Illuminate\\Routing\\Route->gatherMiddleware()
+#9 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(719): Illuminate\\Routing\\Router->gatherRouteMiddleware()
+#10 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack()
+#11 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute()
+#12 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute()
+#13 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch()
+#14 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}()
+#15 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#16 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#17 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#18 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#19 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#20 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#21 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#22 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle()
+#23 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#24 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#25 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#26 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#27 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#28 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#29 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}()
+#30 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then()
+#31 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#32 C:\\xampp\\htdocs\\laravel-jwt\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#33 C:\\xampp\\htdocs\\laravel-jwt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('...')
+#34 {main}
+"} 
+[2022-10-23 15:49:35] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:51:50] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:51:53] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:52:00] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:52:05] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:52:08] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 15:52:10] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 16:08:29] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2022-10-23 16:08:31] local.ERROR: Cannot declare class App\Http\Controllers\AuthController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\AuthController, because the name is already in use at C:\\xampp\\htdocs\\laravel-jwt\\app\\Http\\Controllers\\Controller.php:9)
+[stacktrace]
+#0 {main}
+"} 
